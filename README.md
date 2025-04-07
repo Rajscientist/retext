@@ -1,2 +1,2 @@
 # retext
-Python library for data manipulation
+Python library for data manipulation.
